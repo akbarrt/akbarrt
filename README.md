@@ -1,5 +1,34 @@
 ### Hi there 👋
 
+
+<h1 align="center">
+  <img src="" alt="Akbar N" />
+</h1>
+
+## Hey! 👋
+I'm Akbar, a 18 years old web developer from Indonesian.
+
+- 🦔 Founder of -
+
+- 👨‍💻 Not working yet, Still Studying 
+- 🧭 Founder at 
+
+- 👥 
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 Python, Javascript
+- ⚙️ 
+- 👁️ CSS
+- 💽 
++ a lot more :D
+
+## Contact
+- [akbarrt.github.io](https://akbarrt.github.io)
+- [@akbarnvme](https://instagram.com/akbarnvme) on Instagram
+- [@albarra](./) on Discord
+
 <!--
 **akbarrt/akbarrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
