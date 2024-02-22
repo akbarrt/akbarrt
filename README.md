@@ -1,10 +1,3 @@
-### Hi there 👋
-
-
-<h1 align="center">
-  <img src="" alt="Akbar N" />
-</h1>
-
 ## Hey! 👋
 I'm Akbar, a 18 years old web developer from Indonesian.
 
