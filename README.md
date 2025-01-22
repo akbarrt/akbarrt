@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akbar+Noviandi!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia 🇮🇩
-</h3>
+<h3 align="center">A passionate undergraduate software developer from Indonesia ```<sub>IDN</sub>```🇮🇩 </h3>
 
 <br/>
 
@@ -13,9 +12,9 @@
  
  🔭 I’m currently working as **A College Student**
  
- 🌱 I’m currently learning **C, JAVA, JAVASCRIPT**
+ 🌱 I’m currently learning **JAVA, JAVASCRIPT**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **"Did you know? Over 70 real swords were melted to forge the Iron Throne in Game of Thrones!"🗡️🔥**
 
  </div>
  
@@ -36,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java," /><br>
 </div>
 
 <br/>
@@ -46,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akbarrt/akbarrt/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
