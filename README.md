@@ -4,19 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akbar+Noviandi!;" />
 </h1>
 
-<h3 align="center">A passionate undergraduate software developer from Indonesia ```<sub>IDN</sub>```🇮🇩 </h3>
-
-<br/>
+<h3 align="center">A passionate undergraduate software developer from Indonesia <sub>IDN</sub> </h3>
 
 <div align="center">
- 
- 🔭 I’m currently working as **A College Student**
- 
- 🌱 I’m currently learning **JAVA, JAVASCRIPT**
-
+    
 ⚡ Fun fact **"Did you know? Over 70 real swords were melted to forge the Iron Throne in Game of Thrones!"🗡️🔥**
 
  </div>
+
+</br>
  
 <div align="center"> 
   <a href="mailto:albarnv10@gmail.oom">
