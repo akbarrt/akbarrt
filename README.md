@@ -19,10 +19,6 @@
   <strong><a href="https://www.linkedin.com/in/akbarnoviandi/">Linkedln</a></strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akbarrt"><img src="https://github-readme-stats.vercel.app/api?username=akbarrt&hide_border=true&show_icons=true" alt="Akbar's github stats"></a>
-</p>
-
 <!--
 **akbarrt/akbarrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
